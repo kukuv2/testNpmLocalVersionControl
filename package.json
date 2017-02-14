@@ -1,0 +1,21 @@
+{
+  "name": "test-npmv1.0.0",
+  "version": "1.0.0",
+  "description": "testNpmLocalVersionControl version 1.0.1",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukuv2/testNpmLocalVersionControl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kukuv2/testNpmLocalVersionControl/issues"
+  },
+  "homepage": "https://github.com/kukuv2/testNpmLocalVersionControl#readme"
+}
